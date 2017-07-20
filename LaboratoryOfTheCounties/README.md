@@ -23,8 +23,7 @@ Knowledge](http://prize.hutter1.net/hrules.htm):
     dictionaries, etc.) on Linux without additional
     installations.
      Use of standard libraries as for file I/O are allowed.
--   Use of less than 4GB RAM and 10GB HD for temporary files is still
-    required. No GPU usage. Programs must run in less than 20 hours real
+-   Use of less than 4GB RAM and 10GB HD for temporary files. No GPU usage. Programs must run in less than 20 hours real
     time on [our test
     machine](https://browser.primatelabs.com/geekbench4/search), where
     *T* is its [Geekbench4](http://geekbench.com/geekbench4/) score.
