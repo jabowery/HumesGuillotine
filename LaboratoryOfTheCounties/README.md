@@ -21,9 +21,9 @@ Knowledge](http://prize.hutter1.net/hrules.htm):
 -   Programs must be Linux (x86 32bit or 64bit) executables.
 -   Programs must run without input from other sources (files, network,
     dictionaries, etc.) on Linux without additional
-    installations.\
+    installations.
      Use of standard libraries as for file I/O are allowed.
--   Use of of less than 4GB RAM and 10GB HD for temporary files is still
+-   Use of less than 4GB RAM and 10GB HD for temporary files is still
     required. No GPU usage. Programs must run in less than 20 hours real
     time on [our test
     machine](https://browser.primatelabs.com/geekbench4/search), where
@@ -64,7 +64,7 @@ information to jabowery@gmail.com:
 -   Approximate (de)compression time and memory used.
 -   Description of the test machine (processor, memory, operating
     system).
--   Links where files can be downloaded:\
+-   Links where files can be downloaded:
      Executables and documented source code of (de)compressor and all
     other relevant files.
 -   Usage/compilation instructions.
