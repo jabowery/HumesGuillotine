@@ -1,22 +1,26 @@
-The Laboratory of the Counties Social Causality Contest The file to be
-compressed, LaboratoryOfTheCountiesUncompressed.csv, contains all the
+## The Laboratory of the Counties Social Causality Contest
+
+The objective is to maximally compress the ecological social data described below.
+
+The file to be compressed, `LaboratoryOfTheCountiesUncompressed.csv`, contains all the
 numeric data from [USA Counties Data File
 Downloads](https://www.census.gov/support/USACdataDownloads.html)
-provided by the US Census as of June 4, 2017. The file, Ref.zip,
+provided by the US Census as of June 4, 2017. The file, `Ref.zip`,
 contains the reference information (metadata) for
-LaboratoryOfTheCountiesUncompressed.csv The rules of this, the first in
+`LaboratoryOfTheCountiesUncompressed.csv`.
+
+The rules for this, the first in
 a series of Ockham's Guillotine contests, are modeled after [the rules
 of the Huter Prize for Lossless Compression of Human
-Knowledge](http://prize.hutter1.net/hrules.htm) with the
-underline-indicated modifications:
+Knowledge](http://prize.hutter1.net/hrules.htm):
 
 -   Publish a program (self-extracting archive)
-    `LaboratoryOfTheCountiesCompressed` of size *S*.
+    `LaboratoryOfTheCountiesCompressed`.
 -   If run, it produces a file that is identical to
     `LaboratoryOfTheCountiesUncompressed.csv`.
 -   Programs must be Linux (x86 32bit or 64bit) executables.
 -   Programs must run without input from other sources (files, network,
-    dictionaries, etc.) under Windows or Linux without additional
+    dictionaries, etc.) on Linux without additional
     installations.\
      Use of standard libraries as for file I/O are allowed.
 -   Use of of less than 4GB RAM and 10GB HD for temporary files is still
@@ -36,7 +40,7 @@ underline-indicated modifications:
     `LaboratoryOfTheCountiesCompressed.bhm` may be published, where
     `decompLotC` produces `LaboratoryOfTheCountiesUncompressed.csv` from
     `LaboratoryOfTheCountiesCompressed.bhm`. In this case, the total
-    size is *S* :=
+    size is :=
     length(`decompLotC`)+length(`LaboratoryOfTheCountiesCompressed.bhm`).
 -   In lieu of `LaboratoryOfTheCountiesCompressed`, a compressor
     `compLotC` may be published, together with the size of
@@ -51,7 +55,7 @@ underline-indicated modifications:
 ### Participation
 
 Anyone may participate at this contest by emailing the following
-information to jabowery signforat gee male daught kahm:
+information to jabowery@gmail.com:
 
 -   Name of program(s), version, and used options.
 -   Size of compressed `LaboratoryOfTheCountiesUncompressed.csv`, i.e.
@@ -67,3 +71,7 @@ information to jabowery signforat gee male daught kahm:
 
 Any additional information, even if not complete, especially on the
 inner workings of the (de)compressor, is highly appreciated.
+
+### Award
+
+The prize is recognition that you have the best unified model of US society.  If there are those who wish to award prizes for incremental improvements in this model, they may make announcements of such at [the Ockham's Guillotine Google Group](https://groups.google.com/forum/#!forum/ockhams-guillotine).
