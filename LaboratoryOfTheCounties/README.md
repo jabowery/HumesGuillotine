@@ -1,11 +1,11 @@
 ## The Laboratory of the Counties Social Causality Contest
 
-The objective is to maximally compress the ecological social data described below.
+The objective is to optimally compress the ecological social data described below.
 
 The file to be compressed, `LaboratoryOfTheCountiesUncompressed.csv`, contains all the
 numeric data from [USA Counties Data File
 Downloads](https://www.census.gov/support/USACdataDownloads.html)
-provided by the US Census as of June 4, 2017. The file, `Ref.zip`,
+provided by CenStats of the US Census as of June 4, 2017. The file, `Ref.zip`,
 contains the reference information (metadata) for
 `LaboratoryOfTheCountiesUncompressed.csv`.
 
