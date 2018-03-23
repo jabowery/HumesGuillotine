@@ -5,8 +5,8 @@ The objective is to optimally compress the ecological social data described belo
 The file to be compressed, `LaboratoryOfTheCountiesUncompressed.csv`, contains all the
 numeric data from [USA Counties Data File
 Downloads](https://www.census.gov/support/USACdataDownloads.html)
-provided by CenStats of the US Census as of June 4, 2017. The file, `Ref.zip`,
-contains the reference information (metadata) for
+provided by CenStats of the US Census as of June 4, 2017. Data is being added on an ongoing basis as new sources are acquired.  For example, data from Patchwork Nation is currently being cleaned and will be added.  See the 'patchworknation' subdirectory.
+The file, `Ref.zip`, contains the reference information (metadata) for
 `LaboratoryOfTheCountiesUncompressed.csv`.
 
 The rules for this, the first in
@@ -16,7 +16,7 @@ Knowledge](http://prize.hutter1.net/hrules.htm):
 
 -   Publish a program (self-extracting archive)
     `LaboratoryOfTheCountiesCompressed`.
--   If run, it produces a file that is identical to
+-   If run, it produces a file that is identical to the most recent version of 
     `LaboratoryOfTheCountiesUncompressed.csv`.
 -   Programs must be Linux (x86 32bit or 64bit) executables.
 -   Programs must run without input from other sources (files, network,
