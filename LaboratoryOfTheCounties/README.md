@@ -23,14 +23,8 @@ Knowledge](http://prize.hutter1.net/hrules.htm):
     dictionaries, etc.) on Linux without additional
     installations.
      Use of standard libraries as for file I/O are allowed.
--   Use of less than 4GB RAM and 10GB HD for temporary files. No GPU usage. Programs must run in less than 20 hours real
-    time on [our test
-    machine](https://browser.primatelabs.com/geekbench4/search), where
-    *T* is its [Geekbench4](http://geekbench.com/geekbench4/) score.
-    Current machine (as of 2017, which may change without notice) is a
-    Dell Latitude E6510 Intel Core i7-620M 2667 MHz with 64bit Linux
-    with [*T*=2441 (1 core) and *T*=4336 (2
-    cores)](https://browser.primatelabs.com/v4/cpu/145066).
+-   Use of less than 4GB RAM and 50GB HD for temporary files. No GPU usage. Programs must run in less than 20 hours real
+    time on [our test machine](https://browser.geekbench.com/user/280257)).
 
 ### Relaxations
 
