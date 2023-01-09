@@ -1,0 +1,3 @@
+[submodule "gapminder"]
+	path = gapminder
+	url = https://github.com/jabowery/gapminder
