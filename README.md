@@ -1,6 +1,6 @@
 # OckhamsGuillotine
 
-CAVEAT:  Ockham's Guillotine promotes a specific criterion for model *selection*.  It does not constraint how those models are *generated*.  Models *generated* by a million monkies banging keyboards for a billion years are permitted as well as those by machine learning algorithms or by graduate students laboriously slaving for their PhDs.  None of that is relevant.  Ockham's Guillotine is *only* about model *selection*.
+CAVEAT:  Ockham's Guillotine promotes a specific criterion for model *selection*.  It does not constrain how those models are *generated*.  Models *generated* by a million monkies banging keyboards for a billion years are permitted as well as those by machine learning algorithms or by graduate students laboriously slaving for their PhDs.  None of that is relevant.  Ockham's Guillotine is *only* about model *selection*.
 
 This repository contains a series of contests (the first of which is at [LaboratoryOfTheCounties](https://github.com/jabowery/OckhamsGuillotine/tree/master/LaboratoryOfTheCounties)) to create the best unified model of society by compressing a wide range of social data.  Compression discovers causal laws by approximating the underlying Kolmogorov Complexity of the data.  This is inspired by <a href="http://prize.hutter1.net/">the Hutter Prize for Lossless Compression of Human Knowledge</a>
 
