@@ -10,7 +10,7 @@ The file, `Ref.zip`, contains the reference information (metadata) for
 `LaboratoryOfTheCountiesUncompressed.csv`.
 
 The rules for this, the first in
-a series of Ockham's Guillotine contests, are modeled after [the rules
+a series of Hume's Guillotine contests, are modeled after [the rules
 of the Huter Prize for Lossless Compression of Human
 Knowledge](http://prize.hutter1.net/hrules.htm):
 
@@ -65,6 +65,3 @@ information to jabowery@gmail.com:
 Any additional information, even if not complete, especially on the
 inner workings of the (de)compressor, is highly appreciated.
 
-### Award
-
-The prize is recognition that you have the best unified model of US society.  If there are those who wish to award prizes for incremental improvements in this model, they may make announcements of such at [the Ockham's Guillotine Google Group](https://groups.google.com/forum/#!forum/ockhams-guillotine).
