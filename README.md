@@ -1,6 +1,6 @@
 # HumesGuillotine
 
-This repository is a series of competitions toward rigorous ethics in AGI founded on [Hume's Guillotine](https://youtu.be/UwkSA8nqmdI):  Separating the question of what _IS_ from what _OUGHT_ to be the case.  
+This repository is a series of competitions toward rigorous ethics* in AGI founded on [Hume's Guillotine](https://youtu.be/UwkSA8nqmdI):  Separating the question of what _IS_ from what _OUGHT_ to be the case.  
 
 Artificial General Intelligence unifies _IS_ with _OUGHT_.  In Marcus Hutter's rigorous top down AGI theory, AIXI, Algorithmic Information Theory provides the _IS_ and Sequential Decision Theory provides the _OUGHT_.  Another way of stating that is Algorithmic Information Theory provides what _IS_ the case in the form of scientific knowledge.  Sequential Decision Theory provides what _OUGHT_ to be the case in the form of engineering: Scientific knowledge applied by decision-makers.
 
@@ -13,6 +13,8 @@ Hume's Guillotine is concerned *only* with discovering what *IS* the case via th
 This repository contains a series of datasets (the first of which is at [LaboratoryOfTheCounties](https://github.com/jabowery/HumesGuillotine/tree/master/LaboratoryOfTheCounties)) to create the best unified model of social causation.
 
 See the Nature video "<a href="https://www.youtube.com/watch?v=rkmz7DAA-t8">Remodelling machine learning:  An AI that thinks like a scientist</a>" and its cited Nature journal article "<a href="https://www.nature.com/articles/s42256-018-0005-0">Causal deconvolution by algorithmic generative models</a>".
+
+\* Rigor in ethics applies _intrinsic values_ in deciding what _OUGHT_ to done subject to what _IS_.  Sequential Decision Theory is, in this respect, AGI's rigorous ethical reasoning.  SDT depends on Algorithmic Information Theory for what _IS_, and on its _given_ utility function for its _intrinsic values_.  Failure to recognize this has intellectually crippled the field of AGI ethics.
 
 ## Background
 
