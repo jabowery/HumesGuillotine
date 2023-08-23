@@ -28,6 +28,10 @@ Knowledge](http://prize.hutter1.net/hrules.htm):
 
 ### Relaxations
 
+-   The decompressed `LaboratoryOfTheCounties.csv` need match only the
+    number of significant digits in the original values.  This will be
+    determined by taking the decompressed values and rounding them to the
+    number of significant digits in the original values.
 -   In lieu of a self-extracting archive, a decompressor program
     `decompLotC` plus a compressed file
     `LaboratoryOfTheCountiesCompressed.bhm` may be published, where
