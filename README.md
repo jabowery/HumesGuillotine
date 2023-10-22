@@ -14,7 +14,7 @@ This repository contains a series of datasets (the first of which is at [Laborat
 
 See the Nature video "<a href="https://www.youtube.com/watch?v=rkmz7DAA-t8">Remodelling machine learning:  An AI that thinks like a scientist</a>" and its cited Nature journal article "<a href="https://www.nature.com/articles/s42256-018-0005-0">Causal deconvolution by algorithmic generative models</a>".
 
-\* Rigor in ethics applies _intrinsic values_ in deciding what _OUGHT_ to done subject to what _IS_.  Sequential Decision Theory is, in this respect, AGI's rigorous ethical reasoning.  SDT depends on Algorithmic Information Theory for what _IS_, and on its _given_ utility function for its _intrinsic values_.  Failure to recognize this has intellectually crippled the field of AGI ethics.
+\* Rigor in ethics applies _intrinsic values_ in deciding what _OUGHT_ to be done subject to what _IS_.  Sequential Decision Theory is, in this respect, AGI's rigorous ethical reasoning.  SDT depends on Algorithmic Information Theory for what _IS_, and on its _given_ utility function for its _intrinsic values_.  Failure to recognize this has intellectually crippled the field of AGI ethics.
 
 ## Background
 
