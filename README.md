@@ -1,5 +1,8 @@
 # HumesGuillotine
 
+**cynic**: A blackguard whose faulty vision sees things as they are, not as they ought to be.\
+-- Ambrose Bierce's *Devil's Dictionary*
+
 This repository is a series of competitions toward rigorous ethics* in AGI founded on [Hume's Guillotine](https://youtu.be/UwkSA8nqmdI):  Separating the question of what _IS_ from what _OUGHT_ to be the case.  
 
 Artificial General Intelligence unifies _IS_ with _OUGHT_.  In Marcus Hutter's rigorous top down AGI theory, AIXI, Algorithmic Information Theory provides the _IS_ and Sequential Decision Theory provides the _OUGHT_.  Another way of stating that is Algorithmic Information Theory provides what _IS_ the case in the form of scientific knowledge.  Sequential Decision Theory provides what _OUGHT_ to be the case in the form of engineering: Scientific knowledge applied by decision-makers.
