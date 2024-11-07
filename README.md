@@ -35,7 +35,13 @@ Algorithmic Information regards the first billion bits of the number Pi to be th
 
 Now, which of these two theories of "information" would you trust to predict the next bit of Pi?
 
-The analogy to natural science works because _a priori_ the digits of pi _are_ random as presented to the scientist as phenomena to be modeled.  The presumption that one _might_ find patterns in the digits of pi is neither here nor there in terms of the scientist's objectivity.  Subjectivity only enters the picture when the scientist, for whatever reason, _decides_ to examine the digits of pi.  See "Sequential Decision Theory" above regarding the decision of what to data to include in the "one dataset".  A number theorist will choose some data (e.g. digits of pi) and a sociologist will choose another dataset (e.g. the General Social Survey).
+The analogy to natural science works.  Consider the following data in the context of Shannon Information Theory and then in the context of Algorithmic Information Theory:
+
+Time series positions of 3 celestial bodies in mutual orbit.
+
+It is obvious how Algorithmic Information Theory treats that data but how do you "encode" the dynamics of that system with statistics?
+
+A number theorist will choose some data (e.g. digits of pi) and a sociologist will choose another dataset (e.g. the General Social Survey), but the only way to capture the causal structure's dynamics is with an algorithm.
 
 Data-driven science frequently starts with statistical notions of information but in order to make predictions about the real world, they eventually take the form of algorithms that simulate the causal structures of the world being modeled.  It is at this transition from Shannon Information to Algorithmic Information that causation *necessarily* enters the model and does so based on the assumption of any natural science, i.e.:  
 
