@@ -2,6 +2,8 @@
 
 The objective is to optimally compress the ecological social data described below.
 
+See "[Cell Trajectory Inference Based On Single Cell Stacked Auto Encoders](https://dl.acm.org/doi/10.1145/3757749.3757796)" for only of the ways that developmental dynamics can be latent in data even without an explicit time axis.
+
 The file to be compressed, `LaboratoryOfTheCountiesUncompressed.csv`, contains all the
 numeric data from [USA Counties Data File
 Downloads](https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html)
