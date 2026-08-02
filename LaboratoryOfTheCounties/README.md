@@ -1,5 +1,7 @@
 ## The Laboratory of the Counties Social Causality Contest
 
+Although this is merely a toy dataset, it may serve to illustrate some of the features of the proposed reform of the social pseudosciences.  The following description of contest rules are therefore best thought of as a way to conceptualize what would ensue once a much larger dataset had been curated from the adversarial negotiation of what data to include in the contest.  It may even serve as the basis for an initial contest for students who are interested in getting a hands-on intuition for why this approach to reforming the social pseudosciences would be practical at scale.
+
 The objective is to optimally compress the ecological social data described below.
 
 See "[Cell Trajectory Inference Based On Single Cell Stacked Auto Encoders](https://dl.acm.org/doi/10.1145/3757749.3757796)" for only one of the ways that developmental dynamics can be latent in data even without an explicit time axis.
